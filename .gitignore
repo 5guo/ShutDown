@@ -6,8 +6,9 @@ Debug/
 #release directory
 Release/
 
-Shut_Down.opt
-Shut_Down.plg
-ShutDown.aps
-Shut_Down.ncb
+#ignore temp project files
+*.opt
+*.plg
+*.aps
+*.ncb
 
